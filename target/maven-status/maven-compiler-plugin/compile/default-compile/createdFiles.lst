@@ -1,0 +1,5 @@
+com\urlshortener\linkmanager\model\ShortLink.class
+com\urlshortener\linkmanager\controller\ShortLinkController.class
+com\urlshortener\linkmanager\service\ShortLinkService.class
+com\urlshortener\linkmanager\repository\ShortLinkRepository.class
+com\urlshortener\linkmanager\LinkmanagerApplication.class
